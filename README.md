@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/izetmolla/izetmolla/blob/main/assets/cover.png)
 <!--
 **izetmolla/izetmolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
