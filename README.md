@@ -2,6 +2,10 @@
 ![](https://github.com/izetmolla/izetmolla/blob/main/assets/cover.png)
 
 
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=izetmolla" alt="visitor badge"/>       
+</p>
+
 ---
 
 ### :fire: My Stats :
